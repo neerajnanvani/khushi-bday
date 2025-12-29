@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Khushi's Birthday Celebration",
+  "description": "A vibrant, interactive birthday celebration website for Khushi, featuring AI-powered personalized wishes, interactive cake, floating balloons, and a festive atmosphere.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
